@@ -7,4 +7,5 @@ Clone the repo and add this to your shell startup (`.bashrc`, `.zshrc`, etc.):
 python3 /path/to/sysdash/sysdash.py
 ```
 
-<img width="725" alt="Screenshot 2024-11-19 at 2 46 05 PM" src="https://github.com/user-attachments/assets/43bf6470-a704-4d87-991a-25993fc3367c">
+
+<img width="595" alt="Screenshot 2024-11-20 at 8 17 42 PM" src="https://github.com/user-attachments/assets/52db6b12-cec3-4a88-a73a-7b9832c3e0a5">
